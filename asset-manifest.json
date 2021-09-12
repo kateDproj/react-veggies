@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-veggies/static/css/main.eed90d7c.chunk.css",
+    "main.js": "/react-veggies/static/js/main.310f30ae.chunk.js",
+    "main.js.map": "/react-veggies/static/js/main.310f30ae.chunk.js.map",
+    "runtime-main.js": "/react-veggies/static/js/runtime-main.27038301.js",
+    "runtime-main.js.map": "/react-veggies/static/js/runtime-main.27038301.js.map",
+    "static/js/2.011add37.chunk.js": "/react-veggies/static/js/2.011add37.chunk.js",
+    "static/js/2.011add37.chunk.js.map": "/react-veggies/static/js/2.011add37.chunk.js.map",
+    "static/js/3.dade5cd3.chunk.js": "/react-veggies/static/js/3.dade5cd3.chunk.js",
+    "static/js/3.dade5cd3.chunk.js.map": "/react-veggies/static/js/3.dade5cd3.chunk.js.map",
+    "index.html": "/react-veggies/index.html",
+    "static/css/main.eed90d7c.chunk.css.map": "/react-veggies/static/css/main.eed90d7c.chunk.css.map",
+    "static/js/2.011add37.chunk.js.LICENSE.txt": "/react-veggies/static/js/2.011add37.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27038301.js",
+    "static/js/2.011add37.chunk.js",
+    "static/css/main.eed90d7c.chunk.css",
+    "static/js/main.310f30ae.chunk.js"
+  ]
+}
